@@ -8,8 +8,3 @@ https://www.canva.com/design/DAHBPtOYYOY/Y91XJG3HZsJTJRS_PR7yhA/edit?utm_content
 ## Atividade de Dados Abertos em Planilhas.
 Trabalho executado via Excel: Formatação em Tabelas e Remoção de Duplicatas
 <img width="1919" height="1030" alt="Captura de tela 2026-02-27 201529" src="https://github.com/user-attachments/assets/7d14b8b2-0332-4da2-a4ba-a32ffa43bad4" />
-
-## Atividade Fodase
-TRabalho executado no fodase
-<img width="1383" height="382" alt="Captura de tela 2026-03-03 203756" src="https://github.com/user-attachments/assets/69270334-b1eb-4961-b3d4-f1a1a738dd16" />
-
