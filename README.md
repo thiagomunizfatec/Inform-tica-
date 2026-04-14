@@ -8,3 +8,12 @@ https://www.canva.com/design/DAHBPtOYYOY/Y91XJG3HZsJTJRS_PR7yhA/edit?utm_content
 ## Atividade de Dados Abertos em Planilhas.
 Trabalho executado via Excel: Formatação em Tabelas e Remoção de Duplicatas
 <img width="1919" height="1030" alt="Captura de tela 2026-02-27 201529" src="https://github.com/user-attachments/assets/7d14b8b2-0332-4da2-a4ba-a32ffa43bad4" />
+
+## Atividade de função PROCV.
+Trabalho executado via Excel: Funções e Formatações de Gráfico
+<img width="1586" height="587" alt="Captura de tela 2026-04-14 004109" src="https://github.com/user-attachments/assets/26ffc0be-b502-47e8-9627-ffea0ad83d57" />
+
+
+## Atividade de função SOMASE e CONT.SE
+Trabalho executado via Excel: Funções de soma e contetação de informações.
+<img width="1850" height="548" alt="Captura de tela 2026-04-14 003153" src="https://github.com/user-attachments/assets/effe41ff-9d81-4bfa-a0aa-03a83ac70322" />
