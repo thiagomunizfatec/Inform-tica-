@@ -36,3 +36,8 @@ Trabalho executado via Excel: Uso de formúlas e perguntas e respostas sobre o a
 ## Certificado de Curso de Python.
 Formação voltada aos fundamentos da linguagem.
 <img width="1893" height="456" alt="Captura de tela 2026-04-15 230455" src="https://github.com/user-attachments/assets/7ece7efa-c25a-457a-9661-7a16b635bd00" />
+
+## Média Vendida de Sorvete e Cerveja
+Trabalho executado via power bi 
+<img width="1304" height="771" alt="Captura de tela 2026-05-29 191952" src="https://github.com/user-attachments/assets/92c64e38-2c64-44fd-a457-6e2ad4c22c07" />
+
