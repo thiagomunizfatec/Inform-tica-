@@ -37,6 +37,19 @@ Trabalho executado via Excel: Uso de formúlas e perguntas e respostas sobre o a
 Formação voltada aos fundamentos da linguagem.
 <img width="1893" height="456" alt="Captura de tela 2026-04-15 230455" src="https://github.com/user-attachments/assets/7ece7efa-c25a-457a-9661-7a16b635bd00" />
 
+## Regressão Linear 
+Trabalho executado via excel 
+<img width="1268" height="832" alt="Captura de tela 2026-05-29 195021" src="https://github.com/user-attachments/assets/405b90b3-3ae7-4b4e-a92f-4f2f653e84c0" />
+
+## Comparação de Coeficientes Lineares
+Trabalho executado via excel 
+<img width="1512" height="668" alt="Captura de tela 2026-05-29 194057" src="https://github.com/user-attachments/assets/693b2303-c377-46c8-b3f1-1e4d9c66bc47" />
+
+## Atividades Dados Aberto de SP Desligamentos
+Trabalho via bi
+<img width="1561" height="983" alt="Captura de tela 2026-05-29 195442" src="https://github.com/user-attachments/assets/b5bf6405-0c82-4b74-973a-40953c7f7ffb" />
+
+
 ## Média Vendida de Sorvete e Cerveja
 Trabalho executado via power bi 
 <img width="1304" height="771" alt="Captura de tela 2026-05-29 191952" src="https://github.com/user-attachments/assets/92c64e38-2c64-44fd-a457-6e2ad4c22c07" />
