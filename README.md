@@ -37,6 +37,18 @@ Trabalho executado via Excel: Uso de formúlas e perguntas e respostas sobre o a
 Formação voltada aos fundamentos da linguagem.
 <img width="1893" height="456" alt="Captura de tela 2026-04-15 230455" src="https://github.com/user-attachments/assets/7ece7efa-c25a-457a-9661-7a16b635bd00" />
 
+## Licenciamento Atrasado
+Trabalho via power bi
+<img width="1442" height="797" alt="Captura de tela 2026-06-10 220355" src="https://github.com/user-attachments/assets/17953be2-990f-40bc-870a-cfc93a2f8ca0" />
+
+## População Por Cor
+Trabalho via power bi
+<img width="1599" height="859" alt="Captura de tela 2026-06-10 222458" src="https://github.com/user-attachments/assets/7c11619e-b69b-4f99-816b-1471676ba6b4" />
+
+## Atividades Dados Aberto de SP Desligamentos
+Trabalho via power bi
+<img width="1561" height="983" alt="Captura de tela 2026-05-29 195442" src="https://github.com/user-attachments/assets/b5bf6405-0c82-4b74-973a-40953c7f7ffb" />
+
 ## Regressão Linear 
 Trabalho executado via excel 
 <img width="1268" height="832" alt="Captura de tela 2026-05-29 195021" src="https://github.com/user-attachments/assets/405b90b3-3ae7-4b4e-a92f-4f2f653e84c0" />
@@ -44,11 +56,6 @@ Trabalho executado via excel
 ## Comparação de Coeficientes Lineares
 Trabalho executado via excel 
 <img width="1512" height="668" alt="Captura de tela 2026-05-29 194057" src="https://github.com/user-attachments/assets/693b2303-c377-46c8-b3f1-1e4d9c66bc47" />
-
-## Atividades Dados Aberto de SP Desligamentos
-Trabalho via bi
-<img width="1561" height="983" alt="Captura de tela 2026-05-29 195442" src="https://github.com/user-attachments/assets/b5bf6405-0c82-4b74-973a-40953c7f7ffb" />
-
 
 ## Média Vendida de Sorvete e Cerveja
 Trabalho executado via power bi 
