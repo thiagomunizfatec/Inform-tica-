@@ -41,16 +41,20 @@ Formação voltada aos fundamentos da linguagem.
 Trabalho via power bi
 <img width="1442" height="797" alt="Captura de tela 2026-06-10 220355" src="https://github.com/user-attachments/assets/17953be2-990f-40bc-870a-cfc93a2f8ca0" />
 
-## População Por Cor
+## Atividade Dados Abertos de SP - Raça.
 Trabalho via power bi
 <img width="1599" height="859" alt="Captura de tela 2026-06-10 222458" src="https://github.com/user-attachments/assets/7c11619e-b69b-4f99-816b-1471676ba6b4" />
+<img width="1306" height="733" alt="Captura de tela 2026-06-11 213925" src="https://github.com/user-attachments/assets/e7dd6efe-a9c4-47e6-ab83-51307e205145" />
+<img width="1293" height="729" alt="Captura de tela 2026-06-11 213937" src="https://github.com/user-attachments/assets/f551fd52-e5b4-454d-a34f-899bb824acbe" />
 
 ## Atividades Dados Aberto de SP Desligamentos
 Trabalho via power bi
 <img width="1561" height="983" alt="Captura de tela 2026-05-29 195442" src="https://github.com/user-attachments/assets/b5bf6405-0c82-4b74-973a-40953c7f7ffb" />
 
 ## Regressão Linear 
-Trabalho executado via excel 
+Trabalho executado via excel e python 
+<img width="1088" height="935" alt="Captura de tela 2026-06-11 213647" src="https://github.com/user-attachments/assets/40987536-873e-4d04-8278-6b9bd6feca41" />
+<img width="1398" height="910" alt="Captura de tela 2026-06-11 213704" src="https://github.com/user-attachments/assets/5e68b2f3-9efc-4a79-8e20-905ab365ed66" />
 <img width="1268" height="832" alt="Captura de tela 2026-05-29 195021" src="https://github.com/user-attachments/assets/405b90b3-3ae7-4b4e-a92f-4f2f653e84c0" />
 
 ## Comparação de Coeficientes Lineares
